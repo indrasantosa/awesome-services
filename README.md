@@ -11,6 +11,8 @@ Inspired by the [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 - [Cloud Hosting](#cloud-hosting)
 - [Image Manipulation](#image-manipulation)
 - [Payment Gateway](#payment-gateway)
+- [Realtime Data](#realtime-data)
+- [Source Hosting](#source-hosting)
 
 ### Authentication
 - [OAuth.io](https://oauth.io/) - social logins and authorization service to make an application can easily authenticate user using social account.
@@ -30,7 +32,11 @@ Inspired by the [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 ### Payment Gateway
 - [PayPal](https://www.paypal.com) - handle online payment easily.
 - [Stripe](https://stripe.com/) - a beautiful online payment gateway.
+- [MasterCard](https://developer.mastercard.com/portal/display/api/API) - MasterCard's Application Programming Interfaces (APIs) initiative encourages the development community to innovate with us in advancing commerce. Developers can now leverage previously proprietary APIs for MasterCard's payments and data services to create groundbreaking e-commerce and mobile payment applications.
 
+### Realtime Data
+- [Firebase](https://www.firebase.com/) - Build Realtime Apps. A powerful API to store and sync data in realtime.
 
-
-
+### Source Hosting
+- [BitBucket](https://bitbucket.org/) - free source hosting with a free service to host private repository
+- [GitHub](https://github.com/) - social coding platform
