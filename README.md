@@ -31,6 +31,7 @@ Inspired by the [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 
 ### Payment Gateway
 - [PayPal](https://www.paypal.com) - handle online payment easily.
+- [Braintree](https://www.braintreepayments.com/) - accept PayPal, Bitcoin, Venmo, Apple Pay, cards with a few lines of simple API calls. Free to use for first €50,000.
 - [Stripe](https://stripe.com/) - a beautiful online payment gateway.
 - [MasterCard](https://developer.mastercard.com/portal/display/api/API) - MasterCard's Application Programming Interfaces (APIs) initiative encourages the development community to innovate with us in advancing commerce. Developers can now leverage previously proprietary APIs for MasterCard's payments and data services to create groundbreaking e-commerce and mobile payment applications.
 
