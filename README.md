@@ -41,3 +41,9 @@ Inspired by the [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 ### Source Hosting
 - [BitBucket](https://bitbucket.org/) - free source hosting with a free service to host private repository
 - [GitHub](https://github.com/) - social coding platform
+
+### Testing
+- [Litmus](https://litmus.com/) - Test and track your emails. This service provide email preview across many clients and more
+
+### Others
+- [Picocandy](http://picocandy.com/) - A unique sticker as a service platform for mobile platform
