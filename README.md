@@ -23,11 +23,16 @@ Inspired by the [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 
 ### Image manipulation
 - [Imagga](http://imagga.com/) - service that allows application to understand better about an image. The main attribute of this service is a photo recognition service.
+- [Cloudinary](http://cloudinary.com/)Cloudinary is the image back-end for web and mobile developers. An end-to-end solution for all your image-related needs.
 - [ReKognition](http://rekognition.com/demo/concept) - image recognition service that allows user to get information about the image including, theme, face recognition, celebrity face recognition, etc.
 
-### Connectivity
 
+### Connectivity
+- [Amazon SES](http://aws.amazon.com/ses/) - Amazon Simple Email Service (Amazon SES) is a cost-effective email service built on the reliable and scalable infrastructure that Amazon.com developed to serve its own customer base.
 - [Mailgun](http://www.mailgun.com/) - direct email sending service by [rackspace](http://www.rackspace.com/).
+- [MailJet](https://www.mailjet.com/) - Powerful email delivery platform for Marketers and Developers.
+Email Marketing, SMTP Relay, and APIs.
+- [SendGrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
 
 ### Payment Gateway
 - [PayPal](https://www.paypal.com) - handle online payment easily.
