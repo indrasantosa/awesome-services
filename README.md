@@ -46,6 +46,8 @@ Email Marketing, SMTP Relay, and APIs.
 ### Source Hosting
 - [BitBucket](https://bitbucket.org/) - free source hosting with a free service to host private repository
 - [GitHub](https://github.com/) - social coding platform
+- [GitLab](https://about.gitlab.com/) - Tools for modern developers, GitLab unifies issues, code review, CI and CD into a single UI
+- [CodePlex](http://www.codeplex.com/) - CodePlexProject Hosting for Open Source Software, Hosted by Microsoft
 
 ### Testing
 - [Litmus](https://litmus.com/) - Test and track your emails. This service provide email preview across many clients and more
